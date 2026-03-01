@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fake News Detection**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python and exploring AI/ML concepts**
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
@@ -15,6 +15,13 @@
 
 - 📫 How to reach me **vibudhisahithi16@gmail.com**
 
+## 🚀 Projects
+- 🎵 Emotion-Based Music Player  
+  👉 https://github.com/sahithi-vibudhi/emotion-music-player  
+
+- 📰 Fake News Detection  
+  👉 (add link later)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

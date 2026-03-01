@@ -20,7 +20,7 @@
   👉 https://github.com/sahithi-vibudhi/emotion-music-player  
 
 - 📰 Fake News Detection  
-  👉 (add link later)
+  👉 (currently working on it)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
